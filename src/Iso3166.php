@@ -3576,6 +3576,7 @@ class Iso3166 {
 		array (
 		  0 => '8',
 		  1 => '9',
+		  2 => '6',
 		),
 		'phone_number_lengths' =>
 		array (
